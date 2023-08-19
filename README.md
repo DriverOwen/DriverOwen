@@ -2,8 +2,9 @@
 
 
 **DriverOwen/DriverOwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<table>
-<td>
+
+<div style="display:flex;">
+<div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,9 +14,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...</td>
-<td>![](https://github-readme-stats.vercel.app/api?username=DriverOwen)</td>
-</table>
+- ⚡ Fun fact: ...</div>
+<div>![](https://github-readme-stats.vercel.app/api?username=DriverOwen)</div>
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
