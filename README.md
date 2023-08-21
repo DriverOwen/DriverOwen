@@ -1,16 +1,14 @@
 ### Hi there 👋
 
 
-**DriverOwen/DriverOwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- <img src="https://github-readme-stats.vercel.app/api?username=DriverOwen" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DriverOwen/DriverOwen/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/DriverOwen/DriverOwen/blob/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/DriverOwen/DriverOwen/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
-
+ <img src="https://github-readme-stats.vercel.app/api?username=DriverOwen" />
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
