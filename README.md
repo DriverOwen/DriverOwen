@@ -8,5 +8,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/DriverOwen/DriverOwen/blob/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/DriverOwen/DriverOwen/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
- <img src="https://github-readme-stats.vercel.app/api?username=DriverOwen" />
 
